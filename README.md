@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Soni</h1>
+<h1 align="center">Hi 🫡, I'm Ayush Soni</h1>
 <h3 align="center">A Front-End Web Developer, AI/DS enthusiast and an overall tech lover ;)</h3>
 
 
