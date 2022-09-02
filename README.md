@@ -1,6 +1,7 @@
 <h1 align="center">Hi 🫡, I'm Ayush Soni</h1>
 <h3 align="center">A Front-End Web Developer, AI/DS enthusiast and an overall tech lover ;)</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushSoni-git&label=Profile%20views&color=0e75b6&style=flat" alt="AyushSoni-git" /> </p>
 
 - 🔭 I’m currently working on a **Multimodal Biometric Authentication System**
 
