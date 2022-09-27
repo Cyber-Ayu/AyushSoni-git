@@ -22,31 +22,6 @@
 <a href="https://secure.plum.io/p/2Ui2Qr0KSS7QP04pEq_-BQ"> <img alt="Plum" width="40px" src="https://i.imgur.com/PNhxaKM.png" /></a>
 <br />
 <br />
-<details>
-	<summary> &#9655;</summary>
-	<h3><img src="https://i.imgur.com/x8tsLuE.png" width="18" /> Trophies</h3> <img src="https://github-profile-trophy.vercel.app/?username=themagicalmammal&amp;theme=juicyfresh&amp;row=1&amp;column=5" alt="trophy" />
-	<br />
-	<br />
-	<details>
-		<summary> &#9655;</summary>
-		<h3><img src="https://i.imgur.com/xGG5c7N.png" width="18" /> QR Code</h3> <img alt="QRCode" width="200px" src="https://i.imgur.com/DSHPHdq.png" />
-		<details>
-			<summary> &#9655;</summary>
-			<h3><img src="https://i.imgur.com/1mimHIo.png" width="18" /> Credits</h3>
-			<ol>
-				<li><img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13" /> <a href="https://github.com/sourajitk">Sourajit Karmakar</a></li>
-				<li><img src="https://cdn-icons-png.flaticon.com/128/197/197564.png" width="13" /> <a href="https://github.com/thmsgbrt">Thomas Guibert</a></li>
-				<li><img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13" /> <a href="https://github.com/Prince-Shivaram">Siv Ram Shastri Jonnalagadda</a></li>
-				<li><img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13" /> <a href="https://github.com/anuraghazra">Anurag Hazra</a></li>
-				<li><img src="https://cdn-icons-png.flaticon.com/128/197/197559.png" width="13" /> <a href="https://github.com/owl4ce">Harry</a></li>
-				<li><img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13" /> <a href="https://github.com/ryanlanciaux">Ryan Lanciaux</a></li>
-			</ol>
-			<details>
-				<summary> &#9655;</summary>
-				<h3><img src="https://i.imgur.com/XJ0hI8P.png" width="18" /> Visitor</h3> <img src="https://profile-counter.glitch.me/themagicalmammal/count.svg" />
-				<br /> </details>
-		</details>
-	</details>
-</details>
+
 <br />
 <p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Tuesday, 27 September, 02:07 BST</p>
