@@ -2,7 +2,7 @@
 <p>
 Hey, I am Ayush, undertaking my Bachelor&#39;s from the DIT University in Artificial Intelligence & Data Science in <img src="https://i.imgur.com/DzzzpBo.png" width="13" /> <b>Dehradun, India</b>. I was born in <img src="https://i.imgur.com/DzzzpBo.png" width="13" /> <b>Rawatbhata, India</b>. </p>
 
-<h3><img src="https://i.imgur.com/84QPnNl.png" width="18" /> My Stats</h3> <img src="https://github-readme-stats-bay-ten-48.vercel.app/api?username=AyushSoni-git&amp;include_all_commits=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" alt="Ayush&#39;s GitHub stats" />
+<!-- <h3><img src="https://i.imgur.com/84QPnNl.png" width="18" /> My Stats</h3> <img src="https://github-readme-stats-bay-ten-48.vercel.app/api?username=AyushSoni-git&amp;include_all_commits=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" alt="Ayush&#39;s GitHub stats" /> -->
 <h3><img src="https://i.imgur.com/yQHTmCW.png" width="18" /> Where to find me</h3>
 <a href="https://github.com/AyushSoni-git/"> <img alt="Github" width="40px" src="https://i.imgur.com/RjscN2M.png" /></a>
 <a href="https://www.linkedin.com/in/soni-ayush/"> <img alt="Linkedin" width="40px" src="https://i.imgur.com/Hp2w5wM.png" /></a>
