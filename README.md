@@ -1,4 +1,4 @@
-<p><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="250" alt="animated hello"></p>
+<p><img src="https://i.imgur.com/PhMsL5F.gif" width="300" alt="animated hello"></p>
 <p>
 Hey, I am Ayush, undertaking my Bachelor&#39;s from the DIT University in Artificial Intelligence & Data Science in <img src="https://i.imgur.com/DzzzpBo.png" width="13" /> <b>Dehradun, India</b>. I was born in <img src="https://i.imgur.com/DzzzpBo.png" width="13" /> <b>Rawatbhata, India</b>. </p>
 
