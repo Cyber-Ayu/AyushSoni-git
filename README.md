@@ -4,8 +4,8 @@ Hey, I am Ayush, undertaking my Bachelor&#39;s from the DIT University in Artifi
 
 <h3><img src="https://i.imgur.com/84QPnNl.png" width="18" /> My Stats</h3>
     <!-- GitHub Stats -->
-    <img src="https://github-readme-stats-bay-ten-48.vercel.app/api?username=AyushSoni-git&amp;include_all_commits=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff"
-        alt="Ayush's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AyushSoni-git&show_icons=true&theme=radical"
+    alt="Ayush's GitHub stats" />
 <h3><img src="https://i.imgur.com/yQHTmCW.png" width="18" /> Where to find me</h3>
 <a href="https://github.com/AyushSoni-git/"> <img alt="Github" width="40px" src="https://i.imgur.com/RjscN2M.png" /></a>
 <a href="https://www.linkedin.com/in/soni-ayush/"> <img alt="Linkedin" width="40px" src="https://i.imgur.com/Hp2w5wM.png" /></a>
