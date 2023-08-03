@@ -1,4 +1,4 @@
-<p><img src="https://i.imgur.com/Fihbexl.gif" alt="Hello" width="250" /></p>
+<p><img src="https://i.imgur.com/uDZO0ho.gif" alt="Hello" width="250" /></p>
 <p>
 Hey, I am Ayush, undertaking my Bachelor&#39;s from the DIT University in Artificial Intelligence & Data Science in <img src="https://i.imgur.com/DzzzpBo.png" width="13" /> <b>Dehradun, India</b>. I was born in <img src="https://i.imgur.com/DzzzpBo.png" width="13" /> <b>Rawatbhata, India</b>. </p>
 
