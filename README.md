@@ -1,4 +1,4 @@
-<p><img src="https://i.imgur.com/PhMsL5F.gif" width="300" alt="animated hello"></p>
+<p><img src="https://i.imgur.com/PhMsL5F.gif" width="300" alt="animated hello"> <h3><img src="https://i.imgur.com/yQHTmCW.png" width="18" /> Where to find me</h3></p>
 <p>
 Hey, I am Ayush, undertaking my Bachelor&#39;s from the DIT University in Artificial Intelligence & Data Science in <img src="https://i.imgur.com/DzzzpBo.png" width="13" /> <b>Dehradun, India</b>. I was born in <img src="https://i.imgur.com/DzzzpBo.png" width="13" /> <b>Rawatbhata, India</b>. </p>
 <img src="https://i.imgur.com/uDZO0ho.gif" alt="Hello" width="250" />
@@ -6,7 +6,7 @@ Hey, I am Ayush, undertaking my Bachelor&#39;s from the DIT University in Artifi
     <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=AyushSoni-git&show_icons=true&theme=radical"
     alt="Ayush's GitHub stats" />
-<h3><img src="https://i.imgur.com/yQHTmCW.png" width="18" /> Where to find me</h3>
+
 <a href="https://github.com/AyushSoni-git/"> <img alt="Github" width="40px" src="https://i.imgur.com/RjscN2M.png" /></a>
 <a href="https://www.linkedin.com/in/soni-ayush/"> <img alt="Linkedin" width="40px" src="https://i.imgur.com/Hp2w5wM.png" /></a>
 <a href="https://t.me/EngggAsh"> <img alt="Telegram" width="40px" src="https://i.imgur.com/8uCq4fi.png" /> </a>
