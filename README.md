@@ -1,7 +1,7 @@
 <p><img src="https://i.imgur.com/PhMsL5F.gif" width="300" alt="animated hello"></p>
 <p>
 Hey, I am Ayush, undertaking my Bachelor&#39;s from the DIT University in Artificial Intelligence & Data Science in <img src="https://i.imgur.com/DzzzpBo.png" width="13" /> <b>Dehradun, India</b>. I was born in <img src="https://i.imgur.com/DzzzpBo.png" width="13" /> <b>Rawatbhata, India</b>. </p>
-
+<img src="https://i.imgur.com/uDZO0ho.gif" alt="Hello" width="250" />
 <h3><img src="https://i.imgur.com/84QPnNl.png" width="18" /> My Stats</h3>
     <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=AyushSoni-git&show_icons=true&theme=radical"
